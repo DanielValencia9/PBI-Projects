@@ -12,6 +12,9 @@ Análisis por Categoría: Desglose jerárquico de eventos por sector macroeconó
 🛠️ Tecnologías Utilizadas
 Herramienta BI: Power BI.
 Estructura de Datos: Modelado dimensional, medidas personalizadas y actualización automatizada de datos.
+
+--------------------------------------------------------------------------------------------------------------------------
+
 [EN]
 
 📊 Weekly Express News - Economic Calendar Dashboard
